@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rajeshbhartia/SimpleCrud/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Rajeshbhartia/SimpleCrud/static/js/main.9de2c8d2.chunk.js",
+    "main.js.map": "/Rajeshbhartia/SimpleCrud/static/js/main.9de2c8d2.chunk.js.map",
+    "runtime-main.js": "/Rajeshbhartia/SimpleCrud/static/js/runtime-main.afe29a6a.js",
+    "runtime-main.js.map": "/Rajeshbhartia/SimpleCrud/static/js/runtime-main.afe29a6a.js.map",
+    "static/js/2.b5568bdf.chunk.js": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js",
+    "static/js/2.b5568bdf.chunk.js.map": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js.map",
+    "index.html": "/Rajeshbhartia/SimpleCrud/index.html",
+    "precache-manifest.ad53cac96c5ebc1e3bb588437c3fa356.js": "/Rajeshbhartia/SimpleCrud/precache-manifest.ad53cac96c5ebc1e3bb588437c3fa356.js",
+    "service-worker.js": "/Rajeshbhartia/SimpleCrud/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Rajeshbhartia/SimpleCrud/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b5568bdf.chunk.js.LICENSE.txt": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js.LICENSE.txt",
+    "static/media/product.jpg": "/Rajeshbhartia/SimpleCrud/static/media/product.8eab0a0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afe29a6a.js",
+    "static/js/2.b5568bdf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9de2c8d2.chunk.js"
+  ]
+}
