@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dab2bde2a40fd0f5ee1585cc41ae82c4",
+    "revision": "cc9c1c0a8dd31ae4a2420d1421b02c10",
     "url": "/Rajeshbhartia/SimpleCrud/index.html"
   },
   {
-    "revision": "95c738fe4e6f188acaa3",
-    "url": "/Rajeshbhartia/SimpleCrud/static/css/main.5ecd60fb.chunk.css"
+    "revision": "4e39a92f1cd5a8d1b705",
+    "url": "/Rajeshbhartia/SimpleCrud/static/css/main.69eda509.chunk.css"
   },
   {
     "revision": "1e853c27c2edfd0efb9d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95c738fe4e6f188acaa3",
-    "url": "/Rajeshbhartia/SimpleCrud/static/js/main.9de2c8d2.chunk.js"
+    "revision": "4e39a92f1cd5a8d1b705",
+    "url": "/Rajeshbhartia/SimpleCrud/static/js/main.9568da03.chunk.js"
   },
   {
     "revision": "97113157b145aa18e58a",
