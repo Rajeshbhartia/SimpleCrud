@@ -36,6 +36,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        Hello
         <Products proData={this.state.proData} addToCartData={this.state.addToCartData} onQuery={this.onQuery} />
       </div>
     );
