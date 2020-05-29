@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Rajeshbhartia/SimpleCrud/static/css/main.69eda509.chunk.css",
-    "main.js": "/Rajeshbhartia/SimpleCrud/static/js/main.9568da03.chunk.js",
-    "main.js.map": "/Rajeshbhartia/SimpleCrud/static/js/main.9568da03.chunk.js.map",
-    "runtime-main.js": "/Rajeshbhartia/SimpleCrud/static/js/runtime-main.afe29a6a.js",
-    "runtime-main.js.map": "/Rajeshbhartia/SimpleCrud/static/js/runtime-main.afe29a6a.js.map",
-    "static/js/2.b5568bdf.chunk.js": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js",
-    "static/js/2.b5568bdf.chunk.js.map": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js.map",
-    "index.html": "/Rajeshbhartia/SimpleCrud/index.html",
-    "precache-manifest.80ef29f8f22e178746cf6874da0a094b.js": "/Rajeshbhartia/SimpleCrud/precache-manifest.80ef29f8f22e178746cf6874da0a094b.js",
-    "service-worker.js": "/Rajeshbhartia/SimpleCrud/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/Rajeshbhartia/SimpleCrud/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.b5568bdf.chunk.js.LICENSE.txt": "/Rajeshbhartia/SimpleCrud/static/js/2.b5568bdf.chunk.js.LICENSE.txt",
-    "static/media/product.jpg": "/Rajeshbhartia/SimpleCrud/static/media/product.8eab0a0e.jpg"
+    "main.css": "/SimpleCrud/static/css/main.69eda509.chunk.css",
+    "main.js": "/SimpleCrud/static/js/main.439ab3f9.chunk.js",
+    "main.js.map": "/SimpleCrud/static/js/main.439ab3f9.chunk.js.map",
+    "runtime-main.js": "/SimpleCrud/static/js/runtime-main.36dffd9f.js",
+    "runtime-main.js.map": "/SimpleCrud/static/js/runtime-main.36dffd9f.js.map",
+    "static/js/2.b5568bdf.chunk.js": "/SimpleCrud/static/js/2.b5568bdf.chunk.js",
+    "static/js/2.b5568bdf.chunk.js.map": "/SimpleCrud/static/js/2.b5568bdf.chunk.js.map",
+    "index.html": "/SimpleCrud/index.html",
+    "precache-manifest.96b485577a7fca934e4b82da19b3cf75.js": "/SimpleCrud/precache-manifest.96b485577a7fca934e4b82da19b3cf75.js",
+    "service-worker.js": "/SimpleCrud/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/SimpleCrud/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.b5568bdf.chunk.js.LICENSE.txt": "/SimpleCrud/static/js/2.b5568bdf.chunk.js.LICENSE.txt",
+    "static/media/product.jpg": "/SimpleCrud/static/media/product.8eab0a0e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.afe29a6a.js",
+    "static/js/runtime-main.36dffd9f.js",
     "static/js/2.b5568bdf.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.9568da03.chunk.js"
+    "static/js/main.439ab3f9.chunk.js"
   ]
 }
